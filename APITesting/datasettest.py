@@ -3,7 +3,7 @@ import requests
 
 # Constants
 BASE_URL = "https://voice-rest-api.idrnd.net"
-API_KEY = "gJ2Ii8jqGw71gFL3stE6C9C7eXQ3KDH87hJBfd3e"
+API_KEY = "x-api-key"
 HEADERS = {
     "x-api-key": API_KEY
 }
